@@ -1,4 +1,3 @@
 setTimeout(function() {
- $('.header').css("color","black");
- console.log("TIME");
-}, 10000 );
+ $('#content').css("color","black");
+}, 15000 );
